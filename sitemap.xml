@@ -466,13 +466,6 @@
   </url>
   
   <url>
-    <loc>https://liang5757.github.io/tags/Java/</loc>
-    <lastmod>2021-08-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liang5757.github.io/tags/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
@@ -494,14 +487,7 @@
   </url>
   
   <url>
-    <loc>https://liang5757.github.io/tags/Webpack/</loc>
-    <lastmod>2021-08-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liang5757.github.io/tags/node-js/</loc>
+    <loc>https://liang5757.github.io/tags/Java/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -515,7 +501,28 @@
   </url>
   
   <url>
+    <loc>https://liang5757.github.io/tags/Webpack/</loc>
+    <lastmod>2021-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liang5757.github.io/tags/egg-js/</loc>
+    <lastmod>2021-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang5757.github.io/tags/node-js/</loc>
+    <lastmod>2021-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liang5757.github.io/tags/%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -537,13 +544,6 @@
   
   <url>
     <loc>https://liang5757.github.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2021-08-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liang5757.github.io/tags/%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -580,14 +580,14 @@
   </url>
   
   <url>
-    <loc>https://liang5757.github.io/categories/%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B/</loc>
+    <loc>https://liang5757.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liang5757.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://liang5757.github.io/categories/%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
